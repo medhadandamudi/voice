@@ -2,7 +2,7 @@
 
 from openai import OpenAI
 import os
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import base64
 import streamlit as st
 import openai
